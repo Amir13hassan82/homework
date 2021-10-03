@@ -1,0 +1,8 @@
+int1 = 7
+int2 = 9
+a = int1 + int2
+b = int1 - int2
+c = int1 * int2
+print(f"a = {a}")
+print(f"b = {b}")
+print(f"c = {c}")
