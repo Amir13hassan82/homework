@@ -1,0 +1,6 @@
+int = 9
+float = 15.2
+a = int / float
+b = int // float
+print(f"a = {a}")
+print(f"b = {b}")
